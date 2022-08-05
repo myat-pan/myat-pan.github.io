@@ -1,0 +1,124 @@
+{
+    "order_status": null,
+    "instruction": null,
+    "order": {
+        "id": 389629,
+        "ref_id": 0,
+        "voucher_id": 999527,
+        "customer_address_id": 0,
+        "delivery_user_id": 25924,
+        "restaurant_id": 3,
+        "total_tax": null,
+        "total_service_charges": null,
+        "total_gross": null,
+        "commission_percentage": 0,
+        "origin_total_net": 52000,
+        "total_net": 52000,
+        "delivery_fee": "2500.00",
+        "request_time": "2022-08-05T03:38:57.655Z",
+        "delivery_time": "05:38 AM",
+        "delivery_to": "57, Lin Loon Street, Sanchaung Township [Sanchaung]",
+        "contact_name": "MPPZ",
+        "customer_phone": "09961416345",
+        "contact_info": "57, Lin Loon Street, Sanchaung Township",
+        "latitude": null,
+        "longitude": null,
+        "json": [
+            {
+                "id": 1,
+                "qty": "1",
+                "amount": "26800",
+                "description": "Endorsi Minimal Bag"
+            },
+            {
+                "id": 2,
+                "qty": "1",
+                "amount": "18000",
+                "description": "The Ordinary Niacinamide"
+            },
+            {
+                "id": 3,
+                "qty": "1",
+                "amount": "12000",
+                "description": "PeriPera Vivid Lipstick (26)"
+            }
+        ],
+        "order_json": {
+            "items": [
+                {
+                    "id": 1,
+                    "qty": "1",
+                    "amount": "26800",
+                    "description": "Endorsi Minimal Bag"
+                },
+                {
+                    "id": 2,
+                    "qty": "1",
+                    "amount": "18000",
+                    "description": "The Ordinary Niacinamide"
+                },
+                {
+                    "id": 3,
+                    "qty": "1",
+                    "amount": "12000",
+                    "description": "PeriPera Vivid Lipstick (26)"
+                }
+            ],
+            "header": {
+                "note": "မပို့ခင်ဖုန်းကြိုဆက်ပေးပါရန်",
+                "total": "52000",
+                "weight": "3 kilogram",
+                "arrive_time": "2022-08-05T05:38:57.659Z",
+                "delivery_to": null,
+                "merchant_id": 3,
+                "contact_info": "57, Lin Loon Street, Sanchaung Township",
+                "contact_name": "MPPZ",
+                "request_time": "2022-08-05T03:38:57.655Z",
+                "round_amount": 0,
+                "township_to": 3,
+                "currency_unit": "Ks",
+                "customer_phone": "09961416345",
+                "order_status_id": 1,
+                "township_from": null,
+                "payment_amount_type": "0"
+            }
+        },
+        "order_type": 0,
+        "estimated_min": null,
+        "restaurant_status": 0,
+        "cooking_status": 0,
+        "customer_status": 0,
+        "delivery_status": 0,
+        "payment_status": 0,
+        "order_finish_status": 0,
+        "online_payment_status": 0,
+        "payment_provider": 0,
+        "seen_order_status": 0,
+        "reject_status": 0,
+        "created_at": "2022-08-05T05:38:57.000000Z",
+        "updated_at": "2022-08-05T02:56:50.000000Z",
+        "user_id": 111,
+        "comments": null,
+        "promotion_message": null,
+        "release": null,
+        "kbz_precreate_status": 0,
+        "kbz_prepay_id": null,
+        "voucher_total": 54500,
+        "first_payment_total": 0,
+        "arrive_to_res_status": 0,
+        "biker_accept_order_status": 0,
+        "step": 1,
+        "order_message": "Your order has been modified.",
+        "delivery_user": {
+            "id": 25924,
+            "name": "Food Mall Delivery Man",
+            "image": "FM-aa77e403b7f291b9ab739ff4de8fea22.jpeg",
+            "email": "training@gmail.com",
+            "phone": "09692786866007",
+            "latitude": 16.8273586,
+            "longitude": 96.1737517,
+            "is_use_mock_location": 1,
+            "imagePath": "https://xpress.foodmallmm.com/storage/users/sm/FM-aa77e403b7f291b9ab739ff4de8fea22.jpeg"
+        }
+    }
+}
